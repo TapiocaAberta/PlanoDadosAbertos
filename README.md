@@ -1,10 +1,13 @@
 # Plano de Dados Abertos
-![Organização Ubuntu](./images/image2.png)
+<p align="center"><a href="http://organizacaoubuntu.org"><img src="./images/image2.png" alt="Monitor Legislativo" height="600" /></a></p>
 
 ─
 **Responsável técnico: Paulo Luan Mariano Silva**
+
 **[Organização Ubuntu](http://organizacaoubuntu.org)**
+
 **São José dos Campos**
+
 **25.04.2017**
 
 # Apresentação
